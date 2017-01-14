@@ -55,6 +55,7 @@ welcome();
 
   //Answer Here
 
+// Parameters are apart of the function definition. Arguments are used when invoking the function and assign a value to the parameter.
 
 //////////////////PROBLEM 5////////////////////
 
