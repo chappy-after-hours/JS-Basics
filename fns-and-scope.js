@@ -66,7 +66,7 @@ welcome();
 
   //Answer Here
 
-
+// null, false, 0, NaN, "", undefined
 
 //////////////////PROBLEM 6////////////////////
 
