@@ -23,6 +23,12 @@ isTyler("Jeff")
 
   //Code Here
 
+function getName () {
+  var name = prompt("What is your name?")
+  return name;
+}
+
+getName();
 
 //////////////////PROBLEM 3////////////////////
 
