@@ -39,6 +39,12 @@ getName();
 
   //Code Here
 
+function welcome () {
+  var name = getName();
+  alert("Welcome " + name)
+}
+
+welcome();
 
 //////////////////PROBLEM 4////////////////////
 
